@@ -9,6 +9,8 @@ if %i%==3 set KMS_Sev=kms9.MSGuides.com
 cscript //nologo ospp.vbs /sethst:%KMS_Sev% >nul
 cscript //nologo ospp.vbs /act || (echo The connection to my KMS server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto server)
 
-echo.
+reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\ClickToRun\Configuration" /v UpdatesEnabled /t REG_SZ /d False /f
+
+cls
 echo Done!!!
 pause
