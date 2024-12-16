@@ -7,7 +7,7 @@ if %i%==1 set KMS_Sev=kms7.MSGuides.com
 if %i%==2 set KMS_Sev=kms8.MSGuides.com
 if %i%==3 set KMS_Sev=kms9.MSGuides.com
 cscript //nologo ospp.vbs /sethst:%KMS_Sev% >nul
-cscript //nologo ospp.vbs /act || if errorlevel 2 exit) || (echo The connection to my KMS server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto server)
+cscript //nologo ospp.vbs /act || (echo The connection to my KMS server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto server)
 
 echo.
 echo Done!!!
