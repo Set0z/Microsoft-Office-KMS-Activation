@@ -34,7 +34,7 @@ You can download various versions of Microsoft Office from the official Microsof
 - `HomeBusinessRetail.img`: Includes Word, Excel, PowerPoint, OneNote, Outlook.
 
 #### Microsoft 365 (Windows 10, Windows 11):
-- `O365HomePremRetail.img`: Includes Word, Excel, PowerPoint, OneNote, Outlook, Access, Publisher, OneDrive, Skype.
+- `O365HomePremRetail.img`: Includes Word, Excel, PowerPoint, OneNote, Outlook, Access, Publisher, OneDrive.
 
 ### Example Link
 For Office 2021 Pro Plus version in Russian:
@@ -89,7 +89,7 @@ For Office 2021 Pro Plus version in Russian:
 - `HomeBusinessRetail.img`: Включает Word, Excel, PowerPoint, OneNote, Outlook.
 
 #### Microsoft 365 (Windows 10, Windows 11):
-- `O365HomePremRetail.img`: Включает Word, Excel, PowerPoint, OneNote, Outlook, Access, Publisher, OneDrive, Skype.
+- `O365HomePremRetail.img`: Включает Word, Excel, PowerPoint, OneNote, Outlook, Access, Publisher, OneDrive.
 
 ### Пример ссылки
 Для Office 2021 Pro Plus версии на русском языке:
