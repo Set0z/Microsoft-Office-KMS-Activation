@@ -6,7 +6,7 @@
 
 You can download various versions of Microsoft Office from the official Microsoft website using the following link:
 
-[https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/)
+https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/
 
 ### Language Keys
 - `/ru-RU/` for Russian
@@ -39,7 +39,7 @@ You can download various versions of Microsoft Office from the official Microsof
 ### Example Link
 For Office 2021 Pro Plus version in Russian:
 
-[https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-RU/ProPlus2021Retail.img](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-RU/ProPlus2021Retail.img)
+https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-RU/ProPlus2021Retail.img
 
 ---
 
@@ -61,7 +61,7 @@ For Office 2021 Pro Plus version in Russian:
 
 Вы можете скачать различные версии Office с сайта Microsoft, используя следующую ссылку:
 
-[https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/)
+https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/
 
 ### Ключи языков
 - `/ru-RU/` для русского языка
@@ -94,7 +94,7 @@ For Office 2021 Pro Plus version in Russian:
 ### Пример ссылки
 Для Office 2021 Pro Plus версии на русском языке:
 
-[https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-RU/ProPlus2021Retail.img](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-RU/ProPlus2021Retail.img)
+https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-RU/ProPlus2021Retail.img
 
 ---
 
